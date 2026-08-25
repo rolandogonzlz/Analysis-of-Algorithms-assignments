@@ -1,0 +1,16 @@
+# C/C++ compiled files
+*.o
+*.out
+*.exe
+a.out
+
+# Editor files
+.vscode/
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# OS files
+.DS_Store
