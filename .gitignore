@@ -14,3 +14,12 @@ a.out
 
 # OS files
 .DS_Store
+
+# PSO compiled executables
+Project_Proposal/pso
+Project_Proposal/wifi_pso
+Project_Proposal/batch_bench
+Project_Proposal/compare_wifi
+
+# VS Code local settings
+Project_Proposal/.vscode/
